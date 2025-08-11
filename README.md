@@ -1,4 +1,4 @@
-<h1 id="top" align="center">Hi, I'm Osama Eslam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
+<h1 id="top" align="center">Hi, I'm Osama Eslam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira&weight=900&size=28&color=0d8eceF&center=true&vCenter=true&width=600&height=100&lines=Mobile+Engineer+👨🏻‍🎓" alt="Typing SVG" /> 
@@ -45,16 +45,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aahmed-black-wolf&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1&column=7" alt="aahmed-black-wolf" /></a> </p>
 
-
-
-
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-
-
 <h2><a id="about"></a><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> About</h2>
-
-
 
 🚀 **Mobile Engineer | Flutter  & Dart Specialist | Mobile Enthusiast**
 
@@ -70,7 +63,6 @@ I am an experienced **Software Engineer** with a focus on **React.js**, **Next.j
 - **Performance Optimization**: Focused on optimizing app performance, reducing load times, and enhancing user experience.  
 - **Version Control & Collaboration**: Experienced in using Git for version control and collaborating in Agile development teams.  
 
-
 <img align="right" width="370" height="255" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 #### **Key Skills:**  
@@ -84,9 +76,9 @@ I am an experienced **Software Engineer** with a focus on **React.js**, **Next.j
 - **UI/UX Design Principles**  
 - **Agile Methodology & Team Collaboration**
 
-
 #### Projects & Achievements:  
-- **Skyna, Migakher, and Offto**: Delivered scalable, user-friendly solutions across diverse business models, addressing unique challenges with tailored applications.  
+- **Shopizo**: [https://github.com/osama-eslam/shopizo](https://github.com/osama-eslam/shopizo) — A scalable, user-friendly shopping application built with Flutter.  
+- **Edu Master**: [https://github.com/osama-eslam/Edu-Master](https://github.com/osama-eslam/Edu-Master) — Innovative educational app focused on seamless lesson delivery and student engagement.  
 - **CMS and Admin Panels**: Built robust systems for streamlining business operations, with a focus on efficiency, performance, and usability.  
 
 #### Value Proposition:  
@@ -95,7 +87,6 @@ I am an experienced **Software Engineer** with a focus on **React.js**, **Next.j
 - **Open Source Contribution**: Actively participates in open-source projects, embracing community-driven development and innovation.  
 
 💻 With a meticulous approach to design, testing, and implementation, I ensure every project achieves excellence in performance and user experience. Let’s collaborate to build impactful, future-ready solutions! 
-
 
 - 📄 Know more about my experiences in my **[Resume](https://www.linkedin.com/in/osama-eslam-833394317/overlay/1739574209582/single-media-viewer/?profileId=ACoAAFBTDKcBPDyGC6sZ2mH7CdSknF2qxeWRJ_4)**.
 
@@ -114,6 +105,5 @@ I am an experienced **Software Engineer** with a focus on **React.js**, **Next.j
   <span><img style="display:inline-block" align="center" height="175" width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=osama-eslam&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"   alt="0xabdulkhalid"/></span>
   <span><img style="display:inline-block" align="center" height="200" width="420" src="https://github-readme-stats.vercel.app/api?username=osama-eslam&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/></span>
 </div>
-
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
