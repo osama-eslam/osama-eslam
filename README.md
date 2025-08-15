@@ -1,11 +1,6 @@
 
 <h1 id="top" align="center">Hi, I'm Osama Eslam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave"></h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&color=0D8ECE&center=true&vCenter=true&width=600&height=100&lines=Mobile+Engineer+👨🏻‍🎓" alt="Typing SVG" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
