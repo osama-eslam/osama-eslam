@@ -40,11 +40,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=osama-eslam&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1&column=7" alt="Trophies" />
-  </a>
+  <a href="https://play.google.com/store/apps/dev?id=7695522293547529673" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://www.sideline.com/wp-content/uploads/2015/01/google-play-badge-768x227.png" alt="Google Play" style="height: 50px; margin-right: 10px;">
+    <span style="font-size: 18px; font-weight: bold; color: #000;">Google Play</span>
+  </a>
 </p>
-
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="divider" />
 
 <h2 id="about"><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40" alt="spark"> About</h2>
