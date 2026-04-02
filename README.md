@@ -1,41 +1,36 @@
-
-
-
 <h1 id="top" align="center">
   Hi, I'm Osama Eslam 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave">
 </h1>
 
-
 <!-- ========= TECH ICONS ========= -->
 
 <p align="center">
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://pub.dev/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" alt="pub.dev" width="40" height="40"/>
-  </a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  </a>
+  <a href="https://pub.dev/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" alt="pub.dev" width="40" height="40"/>
+  </a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
 </p>
-
 
 <!-- ========= GOOGLE PLAY BADGE ========= -->
 
@@ -45,19 +40,16 @@
   </a>
 </p>
 
-
 <!-- ========= STATS SHIELDS ========= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=osama-eslam&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" height="21" />
-  <img src="https://img.shields.io/github/followers/osama-eslam?label=Followers&color=0e75b6&style=flat-square" alt="Followers" height="21" />
-  <img src="https://img.shields.io/github/stars/osama-eslam?color=0e75b6&style=flat-square" alt="Stars" height="21" />
-  <img src="https://img.shields.io/github/forks/osama-eslam/Software-Engineering?label=Forks&color=0e75b6&style=flat-square" alt="Forks" height="21" />
+  <img src="https://komarev.com/ghpvc/?username=osama-eslam&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" height="21" />
+  <img src="https://img.shields.io/github/followers/osama-eslam?label=Followers&color=0e75b6&style=flat-square" alt="Followers" height="21" />
+  <img src="https://img.shields.io/github/stars/osama-eslam?color=0e75b6&style=flat-square" alt="Stars" height="21" />
+  <img src="https://img.shields.io/github/forks/osama-eslam/Software-Engineering?label=Forks&color=0e75b6&style=flat-square" alt="Forks" height="21" />
 </p>
 
-
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="divider" />
-
 
 <!-- ========= ABOUT SECTION ========= -->
 
@@ -69,8 +61,44 @@
 
 I am an experienced <strong>Software Engineer</strong> with a focus on <strong>React.js</strong>, <strong>Next.js</strong>, and <strong>JavaScript/TypeScript</strong>. I build responsive, high‑performance web and mobile applications, craft CMS/admin panels, and follow clean architecture principles.
 
-[ ... باقي المحتوى بلا تغيير ... ]
+#### Core Competencies
+- <strong>Flutter Application Development</strong>: High-performance, cross-platform apps.
+- <strong>Dart Programming</strong>: Efficient, maintainable, scalable code.
+- <strong>State Management</strong>: Provider, Riverpod, Bloc.
+- <strong>RESTful API Integration</strong>: Seamless backend communication.
+- <strong>Firebase & Backend Services</strong>: Auth, Firestore, Realtime DB, Cloud Storage.
+- <strong>Responsive UI/UX</strong>: Adaptive layouts.
+- <strong>Performance Optimization</strong>: Faster loads, smooth UX.
+- <strong>Version Control</strong>: Git & Agile teamwork.
 
+<img align="right" width="370" height="255" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
+#### Key Skills
+- Flutter Framework
+- Dart
+- State Management (Provider, Riverpod, Bloc)
+- RESTful APIs
+- Firebase (Auth, Firestore, Realtime DB, Cloud Storage)
+- Git
+- Testing (Flutter Test, Integration)
+- UI/UX Principles
+- Agile
+
+#### Projects & Achievements
+- <strong>Skyna, Migakher, and Offto</strong>: Scalable, user-friendly solutions across different domains.
+- <strong>CMS & Admin Panels</strong>: Operational efficiency with robust systems.
+
+#### Value Proposition
+- <strong>Collaborative Leadership</strong> in Agile teams.
+- <strong>Continuous Learning</strong> and experimentation.
+- <strong>Open Source</strong> participation.
+
+💻 Meticulous design, testing, and implementation to deliver excellent performance and UX.
+
+- 📄 Learn more from my <strong><a href="https://www.linkedin.com/in/osama-eslam-833394317/overlay/1739574209582/single-media-viewer/?profileId=ACoAAFBTDKcBPDyGC6sZ2mH7CdSknF2qxeWRJ_4" target="_blank" rel="noreferrer">Resume</a></strong>.
+- ✨ Enjoy my GitHub profile.
+
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="divider" />
 
 <!-- ========= GITHUB STATS ========= -->
 
@@ -79,8 +107,8 @@ I am an experienced <strong>Software Engineer</strong> with a focus on <strong>R
 </h2>
 
 <div align="center">
-  <img align="center" height="175" width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=osama-eslam&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Top Languages"/>
-  <img align="center" height="200" width="420" src="https://github-readme-stats.vercel.app/api?username=osama-eslam&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="GitHub Stats"/>
+  <img align="center" height="175" width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=osama-eslam&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Top Languages"/>
+  <img align="center" height="200" width="420" src="https://github-readme-stats.vercel.app/api?username=osama-eslam&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="GitHub Stats"/>
 </div>
 
 <p align="center">
