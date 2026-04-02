@@ -1,10 +1,7 @@
 
 <h1 id="top" align="center">Hi, I'm Osama Eslam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave"></h1>
 
-<p align="center">
-  <a href="https://play.google.com/store/apps/dev?id=7695522293547529673" target="_blank">
-    <img src="https://www.sideline.com/wp-content/uploads/2015/01/google-play-badge-768x227.png" alt="Google Play" style="height: 50px;">
-  </a>
+
 </p>
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
@@ -40,9 +37,8 @@
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/dev?id=7695522293547529673" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
-    <img src="https://www.sideline.com/wp-content/uploads/2015/01/google-play-badge-768x227.png" alt="Google Play" style="height: 50px; margin-right: 10px;">
-    <span style="font-size: 18px; font-weight: bold; color: #000;">Google Play</span>
+  <a href="https://play.google.com/store/apps/dev?id=7695522293547529673" target="_blank">
+    <img src="https://www.sideline.com/wp-content/uploads/2015/01/google-play-badge-768x227.png" alt="Google Play" style="height: 50px;">
   </a>
 </p>
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="divider" />
