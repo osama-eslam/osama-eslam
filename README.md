@@ -1,10 +1,4 @@
-<!-- ========= HEADER + BACKGROUND GIF ========= -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Zm9zYjhmcm55YjVkcGU0ZXFoMWd2ZGhxdWQ5ZDYzMm9iMG1nbmtyNSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif" 
-       alt="Background Animation" 
-       width="100%" />
-</p>
 
 
 <h1 id="top" align="center">
