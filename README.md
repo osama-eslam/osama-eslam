@@ -40,9 +40,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=osama-eslam&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1&column=7" alt="Trophies" />
-  </a>
+  <a href="https://play.google.com/store/apps/dev?id=7695522293547529673" target="_blank">
+    <img src="https://www.sideline.com/wp-content/uploads/2015/01/google-play-badge-768x227.png" alt="Google Play" style="height: 50px;">
+  </a>
 </p>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="divider" />
