@@ -95,9 +95,7 @@ I am an experienced <strong>Software Engineer</strong> with a focus on <strong>R
 
 [![Osama's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=osama-eslam&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=00526f&style=flat" alt="back to top" /></a></p>
 
-<h2 id="github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" alt="stats"> Github Stats</h2>
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=osama-eslam&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
