@@ -1,109 +1,109 @@
-
-<h1 id="top" align="center">Hi, I'm Osama Eslam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave"></h1>
-
-
 <p align="center">
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://pub.dev/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" alt="pub.dev" width="40" height="40"/>
-  </a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=🏆%20EduRivals%20Mastery&fontAlign=50&fontAlignY=40&color=00b4d8&customColorList=2,3,5,8,15,20&animation=twinkling" alt="EduRivals Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=osama-eslam&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" height="21" />
-  <img src="https://img.shields.io/github/followers/osama-eslam?label=Followers&color=0e75b6&style=flat-square" alt="Followers" height="21" />
-  <img src="https://img.shields.io/github/stars/osama-eslam?color=0e75b6&style=flat-square" alt="Stars" height="21" />
-  <img src="https://img.shields.io/github/forks/osama-eslam/Software-Engineering?label=Forks&color=0e75b6&style=flat-square" alt="Forks" height="21" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3MxOGo1ZXk0OHNyY28zZGN1cTdianJ3OG04N2FxNGF6Zm1iam04YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mJkd1TOUoELvK00NJz/giphy.gif" width="300" style="border-radius: 50%; box-shadow: 0 0 25px rgba(0,255,0,0.3);">
+</p>
+
+
+<p align="center">
+  <b>"Redefining learning: Fast, Competitive, and Scalable Academic Excellence."</b>
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/dev?id=7695522293547529673" target="_blank">
-    <img src="https://www.sideline.com/wp-content/uploads/2015/01/google-play-badge-768x227.png" alt="Google Play" style="height: 50px;">
+  <a href="https://play.google.com/store/apps/details?id=com.edurivals.app123">
+    <img src="https://img.shields.io/badge/Status-Live%20on%20Google%20Play-brightgreen?style=for-the-badge&logo=google-play" alt="Status">
   </a>
+  <img src="https://img.shields.io/badge/Platform-Android-blue?style=for-the-badge&logo=android" alt="Platform">
+  <img src="https://img.shields.io/badge/Tech-Flutter-02569B?style=for-the-badge&logo=flutter" alt="Flutter">
+  <img src="https://img.shields.io/badge/Security-Enterprise%20Grade-red?style=for-the-badge" alt="Secure">
 </p>
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="divider" />
+---
 
-<h2 id="about"><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40" alt="spark"> About</h2>
+## 📖 Project Overview
+**EduRivals** transforms conventional education into a **high-performance gamified ecosystem**. Students engage in progressive 10-level challenges with real-time **national leaderboards**, driving mastery and motivation.
 
-🚀 <strong>Mobile Engineer | Flutter & Dart Specialist | Mobile Enthusiast</strong>
+> [!INFO]
+> **🛡️ Confidential & Proprietary:** > Source code is **private**. This repository highlights **UI/UX design excellence** and **technical engineering capabilities**.
 
-I am an experienced <strong>Software Engineer</strong> with a focus on <strong>React.js</strong>, <strong>Next.js</strong>, and <strong>JavaScript/TypeScript</strong>. I build responsive, high-performance web and mobile applications, craft CMS/admin panels, and follow clean architecture principles.
+---
 
-#### Core Competencies
-- <strong>Flutter Application Development</strong>: High-performance, cross-platform apps.
-- <strong>Dart Programming</strong>: Efficient, maintainable, scalable code.
-- <strong>State Management</strong>: Provider, Riverpod, Bloc.
-- <strong>RESTful API Integration</strong>: Seamless backend communication.
-- <strong>Firebase & Backend Services</strong>: Auth, Firestore, Realtime DB, Cloud Storage.
-- <strong>Responsive UI/UX</strong>: Adaptive layouts.
-- <strong>Performance Optimization</strong>: Faster loads, smooth UX.
-- <strong>Version Control</strong>: Git & Agile teamwork.
+## 🚀 Core Engineering Features
 
-<img align="right" width="370" height="255" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+* **🎮 Gamified Ecosystem:** Study sessions become **engaging competitive experiences**.
+* **⚡ Real-Time Sync Engine:** Instant leaderboard updates with **optimized network streaming**.
+* **📊 Granular Analytics:** Comprehensive performance tracking to identify strengths and growth areas.
+* **🛡️ Enterprise-Level Security:** Backend designed for **data integrity** and **unauthorized access prevention**.
+* **📱 Premium UI/UX:** Sleek dark-mode interface for **optimal focus** and minimal eye strain.
 
-#### Key Skills
-- Flutter Framework
-- Dart
-- State Management (Provider, Riverpod, Bloc)
-- RESTful APIs
-- Firebase (Auth, Firestore, Realtime DB, Cloud Storage)
-- Git
-- Testing (Flutter Test, Integration)
-- UI/UX Principles
-- Agile
+---
 
-#### Projects & Achievements
-- <strong>Skyna, Migakher, and Offto</strong>: Scalable, user-friendly solutions across different domains.
-- <strong>CMS & Admin Panels</strong>: Operational efficiency with robust systems.
+## 📸 App Showcase
+<p align="center">
+  <table align="center" style="border: none; background: transparent;">
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="./screenshot/1.png" width="260" style="border-radius: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.35);">
+        <br><b>Arena Dashboard</b>
+      </td>
+      <td align="center" style="border: none;">
+        <img src="./screenshot/4.png" width="260" style="border-radius: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.35);">
+        <br><b>Subject Progress Tracker</b>
+      </td>
+      <td align="center" style="border: none;">
+        <img src="./screenshot/3.png" width="260" style="border-radius: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.35);">
+        <br><b>National Leaderboard</b>
+      </td>
+    </tr>
+  </table>
+</p>
 
-#### Value Proposition
-- <strong>Collaborative Leadership</strong> in Agile teams.
-- <strong>Continuous Learning</strong> and experimentation.
-- <strong>Open Source</strong> participation.
+---
 
-💻 Meticulous design, testing, and implementation to deliver excellent performance and UX.
+## 🛠️ Technical Stack
 
-- 📄 Learn more from my <strong><a href="https://www.linkedin.com/in/osama-eslam-833394317/overlay/1739574209582/single-media-viewer/?profileId=ACoAAFBTDKcBPDyGC6sZ2mH7CdSknF2qxeWRJ_4" target="_blank" rel="noreferrer">Resume</a></strong>.
-- ✨ Enjoy my GitHub profile.
+* **Framework:** Flutter (Clean Architecture, Dart)
+* **State Management:** BLoC / Provider (Stream-optimized)
+* **Backend:** Firebase (Firestore, Auth, Storage)
+* **Performance:** 60 FPS, **smooth rendering** with optimized network layers
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="divider" />
+---
 
-<h2 id="graph">📈 Contributions Graph</h2>
+## ⚡ Key Metrics & Analytics
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=osama-eslam&theme=tokyonight&border_radius=12" width="450">
+</p>
 
-[![Osama's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=osama-eslam&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-<p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=00526f&style=flat" alt="back to top" /></a></p>
+## 👤 Developer Profile
 
-<h2 id="github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" alt="stats"> Github Stats</h2>
+<table align="center" style="border-collapse: collapse; border: none; background-color: transparent; width: 100%;">
+  <tr style="border: none;">
+    <td align="left" style="border: none; vertical-align: middle; width: 70%; padding: 0;">
+      <h2 style="margin: 0; border: none;">Osama Islam (ElDeep)</h2>
+      <p style="font-size: 1.2em; color: #58a6ff; margin: 10px 0;"><b>Principal Mobile Engineer | Flutter Expert</b></p>
+      <p style="font-size: 1.1em; font-style: italic; color: #8b949e; line-height: 1.5;">
+        "I build digital legacies — architecting **scalable mobile solutions** and **high-performance cross-platform ecosystems**."
+      </p>
+      <br>
+      <a href="https://www.linkedin.com/in/osama-islam-7627a8321">
+        <img src="https://img.shields.io/badge/LinkedIn-Official_Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+      </a>
+      <a href="https://osamaeldeepdev.netlify.app">
+        <img src="https://img.shields.io/badge/Portfolio-Personal_Website-black?style=for-the-badge&logo=netlify" alt="Website">
+      </a>
+    </td>
+    <td align="right" style="border: none; vertical-align: middle; width: 30%; padding: 0;">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXh0NDBjZGRhaGFucnJtNHgzcGc1NDNjeTJkYTltcHg4cWRyemQ5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="180" style="border-radius: 20px; box-shadow: 0 12px 35px rgba(0,0,0,0.5); display: block; margin-left: auto;">
+    </td>
+  </tr>
+</table>
 
-<div align="center">
+---
 
-  <img align="center" height="200" width="420" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG9hbzUxZXRmM3F1ZWloenRwYTEyeG1ucm9jMm9mN2RjY3MwYXZsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26DoiqmYcxgFICb3G/giphy.gif" alt="GitHub Stats"/>
-</div>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="footer" />
-```
+<p align="center">
+  <sub>© 2026 Osama ElDeep Solutions — Secure. Scalable. Superior.</sub>
+</p>
