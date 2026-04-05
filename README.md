@@ -101,7 +101,7 @@ I am an experienced <strong>Software Engineer</strong> with a focus on <strong>R
 <h2 id="github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" alt="stats"> Github Stats</h2>
 
 <div align="center">
-  <img align="center" height="175" width="320" src="" alt="Top Languages"/>
+
   <img align="center" height="200" width="420" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG9hbzUxZXRmM3F1ZWloenRwYTEyeG1ucm9jMm9mN2RjY3MwYXZsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26DoiqmYcxgFICb3G/giphy.gif" alt="GitHub Stats"/>
 </div>
 
