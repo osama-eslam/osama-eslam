@@ -101,8 +101,8 @@ I am an experienced <strong>Software Engineer</strong> with a focus on <strong>R
 <h2 id="github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" alt="stats"> Github Stats</h2>
 
 <div align="center">
-  <img align="center" height="175" width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=osama-eslam&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Top Languages"/>
-  <img align="center" height="200" width="420" src="https://github-readme-stats.vercel.app/api?username=osama-eslam&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="GitHub Stats"/>
+  <img align="center" height="175" width="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Uxb2dnNnFiYTVkNnJ6dmh4bnR6b3doZmx2azVidGdzNHl1bGxsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9YK1vUKyYmGUEsCtmC/giphy.gif" alt="Top Languages"/>
+  <img align="center" height="200" width="420" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG9hbzUxZXRmM3F1ZWloenRwYTEyeG1ucm9jMm9mN2RjY3MwYXZsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26DoiqmYcxgFICb3G/giphy.gif" alt="GitHub Stats"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="footer" />
