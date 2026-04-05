@@ -102,7 +102,7 @@ I am an experienced <strong>Software Engineer</strong> with a focus on <strong>R
 
 <div align="center">
   <img align="center" height="175" width="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1ueTJ0NXphbTQzNHBjbDI1ZjhpcnEzOHpsamkwbmV1enpkZ3VrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26DoiqmYcxgFICb3G/giphy.gif" alt="Top Languages"/>
-  <img align="center" height="200" width="420" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1ueTJ0NXphbTQzNHBjbDI1ZjhpcnEzOHpsamkwbmV1enpkZ3VrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26DoiqmYcxgFICb3G/giphy.gif" alt="GitHub Stats"/>
+  <img align="center" height="200" width="420" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmcwcWRxeHdvbTJyeXpva3BoMWcwaWdmc21pMnRibHpzMGU4bXd0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bc3CfSHazyMWMU/giphy.gif" alt="GitHub Stats"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="footer" />
