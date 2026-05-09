@@ -1,7 +1,3 @@
-
-<h1 id="top" align="center">Hi, I'm Osama Eslam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave"></h1>
-
-
 <h1 id="top" align="center">Hi, I'm Osama Eslam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave"></h1>
 
 <p align="center">
@@ -22,26 +18,6 @@
   <img src="https://img.shields.io/github/stars/osama-eslam?color=0e75b6&style=flat-square" alt="Stars" height="21" />
   <img src="https://img.shields.io/github/forks/osama-eslam/Software-Engineering?label=Forks&color=0e75b6&style=flat-square" alt="Forks" height="21" />
 </p>
-
-<p align="center">
-  <a href="https://play.google.com/store/apps/dev?id=7695522293547529673" target="_blank">
-    <img src="https://raw.githubusercontent.com/osama-eslam/osama-eslam/main/google-play-badge.png" onerror="this.src='https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg'" alt="Google Play" height="50">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=osama-eslam&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" height="21" />
-  <img src="https://img.shields.io/github/followers/osama-eslam?label=Followers&color=0e75b6&style=flat-square" alt="Followers" height="21" />
-  <img src="https://img.shields.io/github/stars/osama-eslam?color=0e75b6&style=flat-square" alt="Stars" height="21" />
-  <img src="https://img.shields.io/github/forks/osama-eslam/Software-Engineering?label=Forks&color=0e75b6&style=flat-square" alt="Forks" height="21" />
-</p>
-
-<p align="center">
-  <a href="https://play.google.com/store/apps/dev?id=7695522293547529673" target="_blank">
-    <img src="https://www.sideline.com/wp-content/uploads/2015/01/google-play-badge-768x227.png" alt="Google Play" style="height: 50px;">
-  </a>
-</p>
-
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="divider" />
 
 <h2 id="about"><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40" alt="spark"> About</h2>
